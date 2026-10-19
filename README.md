@@ -2,3 +2,6 @@
 /к -- кубик 1d20
 /к 2d20
 /к d30+1
+
+
+https://vk.ru/dachtoshtakoe
